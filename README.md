@@ -116,8 +116,3 @@ _MSc, Computer Science					   			             	           Minneapolis, MN_
 
 _BA, Computer Science and Chemistry									    Galesburg, IL					   			            _
 
-**SKILLS & KEYWORDS (for bots)**
-
-
-
-* **Skill_s_: **Architecture, Systems Design, Java, Scala, Database, Full-Stack, REST APIs, Leadership, Software Development, Agile Methodologies, Cross-functional Collaboration, AWS, Cloud Native Architecture
