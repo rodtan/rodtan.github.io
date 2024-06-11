@@ -34,7 +34,7 @@ _Lead Software Engineer | Mar 2017 - Feb 2018	 				                             
 * Technical Lead for the Guest Identification Team in Digital Marketing. Digital Marketing allows companies to place ads on Google via Target, using Target’s vast customer database.
 * Developed Digital Marketing's Data Management Platform (DMP) on Google Cloud Platform.
 
-_Senior Software Engineer| June 2014 - Mar 2016	 							      _
+_Senior Software Engineer| June 2014 - Mar 2016_
 * Worked on Target.com website: Recommendations and Review team, Guest Account Management team (login/profiles)
 
 **Priceline.com			 							   	 Aug 2011 – May 2014**
