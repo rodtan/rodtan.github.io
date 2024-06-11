@@ -30,7 +30,7 @@ _Senior Software Engineer | Feb 2018 - Sep 2020_
 * Developed new features for eligibility & authorization processes, improving system functionality and user experience.
 
 **Target.com										   	  June 2014 - Feb 2018**
-_Lead Software Engineer | Mar 2017 - Feb 2018	 				                                   Minneapolis, MN _
+_Lead Software Engineer | Mar 2017 - Feb 2018	 				                                   Minneapolis, MN_
 * Technical Lead for the Guest Identification Team in Digital Marketing. Digital Marketing allows companies to place ads on Google via Target, using Target’s vast customer database.
 * Developed Digital Marketing's Data Management Platform (DMP) on Google Cloud Platform.
 
@@ -43,19 +43,19 @@ _Principal Software Engineer	 							                  	     Norwalk, CT_
 * Worked on mobile APIs and internal tools for marketing..
 
 **Legg Mason			 							   	  Oct 2006 – Aug 2011**
-_Senior Developer Analyst 									                             Stamford, CT _
+_Senior Developer Analyst 									                             Stamford, CT_
 * Architected and implemented an enterprise-wide managed file transfer solution
 
 **Polaris Software Labs	 							  	 June 2005 – Oct 2006**
-_Consultant - Client : Citigroup Asset Management, then Legg Mason			                                 	    Stamford, CT _
+_Consultant - Client : Citigroup Asset Management, then Legg Mason			                                 	    Stamford, CT_
 * Supported fixed income batch applications and messaging software for front office trading for Citigroup Asset Management (later Legg Mason)
 
 **Ecquaria.com		 							   		June 2004 - May 2005**
-_Senior Software Engineer									                                   Singapore _
+_Senior Software Engineer									                                   Singapore_
 * Maintained a Singapore government portal website that allows businesses to manage their licenses online.
 
 **Accenture.com		 							   	 Apr 2002 - June 2004**
-_Analyst								                               		   	           Singapore _
+_Analyst								                               		   	           Singapore_
 * Maintained the website for Singapore Airlines.
 * Gathered requirements and architected technical solutions for a modernization project for Singapore’s National Healthcare Group.
 
