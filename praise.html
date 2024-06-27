@@ -1,0 +1,44 @@
+
+<html>
+<head>
+<title>Audax Praise Generator</title>
+<script>
+
+function r(a) {
+	//alert(a.length);
+	var index = Math.floor(Math.random() * a.length);
+	return a[index];
+}
+
+var howBig = ["really", "extremely", "unbelievably", ""];
+var team = ["everyone", "team", "guys", "all"];
+var intro = ["Killing it!", "Boom!", "Super exciting!", "+1.", "", "Wow!", "Sweet!"];
+var introAdjective1 = ["news", "stuff"];
+var introNoun = ["work", "job", "effort"];
+var introAdjective = ["Great " + r(introNoun), "Fantastic "+ r(introNoun), "Phenomenal "+ r(introNoun), "Awesome "+ r(introNoun), "Hats off", "High fives", "Nice work", "Congrats", "Rock on", "Totes rad", "Congratz"];
+
+var extroNoun = ["guys", "", "all around guys", "everyone", "all"]
+var hardwork = ["focus", "dedication", "determination", "commitment to success"];
+var secondaryAdjective = ["huge", "awesome", "amazing", "badass", "wonderful", "extremely exciting"];
+var by = ["by everyone involved", "by the entire team", "company wide"];
+var hugeWin = [" - this is a huge win for us", " - I want everyone today to stop and take a moment", " - this is nothing short of amazing", " - this is a huge step on our path", " - take a deep breath and take it all in", " - its fantastic to see this come to life"]
+var leadIn = ["This is " + r(secondaryAdjective), "What we have accomplished is " + r(secondaryAdjective), "To echo the rest of the team - this is " + r(secondaryAdjective), "I can't echo anymore what has already been said, this is " + r(secondaryAdjective), "Just to add some color, this couldn't have been achieved without 100% " + r(hardwork) + " " + r(by) + r(hugeWin), "I think I speak for everyone when I say, this is " + r(secondaryAdjective)];
+
+var closing = ["great work", "well done", "thanks to all", "hats off", "kudos", "LOVE it", "yay", "yay, us", "woohoo", "THANK YOU so much", "thanks again", "awesome folks", "onward and upward...", "and we just keep moving on up!", "I can't wait to see where this takes us", "game on now"];
+
+
+</script>
+</head>
+<body>
+<h2>Audax Praise Generator</h2>
+<div style="color:rgb(34,34,34);font-size:13px;font-family:arial,sans-serif; width: 600px; padding:  10px; border: 1px solid silver;">
+<script>
+document.write(
+r(intro) + " " + r(introAdjective)  + " " + r(extroNoun) + "!  " + r(leadIn) + ", " + r(closing) + "!!"
+);
+</script>
+</div>
+<br/>
+<input type="button" value="Generate Audax Praise" onclick="location.reload()"/>
+</body>
+</html>
