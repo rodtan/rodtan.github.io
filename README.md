@@ -1,6 +1,6 @@
 **Rotherick Tan**
 
-rodtan@yahoo.com ❖ Minnetonka, MN ❖ [GitHub link](https://github.com/rodtan/) ❖ [Portfolio](https://www.linkedin.com/in/rotherick-tan/) ❖ [CodeSignal](https://app.codesignal.com/coding-report/gJQxcYN4CkhRMagfC-fvQgkMnC7iRC3PM9JXSA3hXc?accessToken=gJQxcYN4CkhRMagfC-ZZSaSDLaMsD74xGoYDz5eYag)
+rodtan@yahoo.com ❖ Minnetonka, MN ❖ [GitHub link](https://github.com/rodtan/) ❖ [Portfolio](https://www.linkedin.com/in/rotherick-tan/) 
 
 **WORK EXPERIENCE**
 
