@@ -1,6 +1,6 @@
 **Rotherick Tan**
 
-rodtan@yahoo.com ❖ Minnetonka, MN ❖ [GitHub link](https://github.com/rodtan/) ❖ [Portfolio](https://www.linkedin.com/in/rotherick-tan/) ❖ [Praise](https://rodtan.github.com/praise) ❖
+rodtan@yahoo.com ❖ Minnetonka, MN ❖ [GitHub link](https://github.com/rodtan/) ❖ [Portfolio](https://www.linkedin.com/in/rotherick-tan/) ❖ [Praise](https://rodtan.github.io/praise) ❖
 
 **WORK EXPERIENCE**
 
